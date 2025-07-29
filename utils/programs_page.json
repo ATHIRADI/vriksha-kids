@@ -1,0 +1,156 @@
+{
+  "hero_section": {
+    "title": "Programs"
+  },
+  "programs_list": [
+    "Young Toddlers (1.5 – 2.5 Years)",
+    "Montessori Program (2.5 – 3.5 Years)",
+    "Preschoolers (3.5 – 4.5 Years)",
+    "Pre-KG / KG (4.5 – 5 Years)",
+    "Daycare Services (1.5 – 5.5 Years)"
+  ],
+  "programs_details": [
+    {
+      "title": "Young Toddlers Program",
+      "description": "Our Young Toddlers Program is designed for children aged 1.5 to 2.5 years. It focuses on nurturing curiosity, developing fine and gross motor skills, and fostering early social interaction. We create a safe and caring environment where toddlers explore through sensory activities and guided play.",
+      "features": [
+        "Safe & Hygienic Play Areas",
+        "Sensory Play & Exploration",
+        "Language & Communication Development",
+        "Social Interaction & Group Play",
+        "Parent-Child Bonding Sessions"
+      ],
+      "image": "/images/1.jpeg"
+    },
+    {
+      "title": "Montessori Program",
+      "description": "Vrishka’s Montessori Program introduces structured, child-centered learning for children aged 2.5 to 3.5 years. Through hands-on activities and practical life exercises, children develop independence, focus, and problem-solving skills in a nurturing environment.",
+      "features": [
+        "Certified Montessori Curriculum",
+        "Hands-On Learning Materials",
+        "Self-Learning & Independence",
+        "Sensorial & Practical Life Activities",
+        "Cognitive & Emotional Growth"
+      ],
+      "image": "/images/2.jpeg"
+    },
+    {
+      "title": "Preschoolers Program",
+      "description": "Designed for children aged 3.5 to 4.5 years, our Preschoolers Program blends academic readiness with creativity and play. We focus on developing literacy, numeracy, social skills, and emotional intelligence through interactive learning.",
+      "features": [
+        "Pre-Literacy & Numeracy Skills",
+        "Art & Craft Workshops",
+        "Music, Dance & Storytelling",
+        "Outdoor Play & Physical Development",
+        "Social & Emotional Skill Building"
+      ],
+      "image": "/images/3.jpeg"
+    },
+    {
+      "title": "Pre-KG / KG Program",
+      "description": "Our Pre-KG and Kindergarten Program prepares children aged 4.5 to 5 years for formal schooling. The curriculum emphasizes academic readiness, leadership, and collaborative learning while ensuring a joyful learning environment.",
+      "features": [
+        "Language, Math & Science Foundation",
+        "Theme-Based & Project Learning",
+        "Leadership & Teamwork Activities",
+        "Field Trips & Experiential Learning",
+        "Physical Education & Sports"
+      ],
+      "image": "/images/4.jpeg"
+    },
+    {
+      "title": "Daycare Services",
+      "description": "Vrishka’s Daycare offers a safe and caring environment for children aged 1.5 to 5.5 years. Our daycare is structured with playtime, learning, rest periods, and nutritious meals to ensure a balanced and enriching experience.",
+      "features": [
+        "Safe & Hygienic Facilities",
+        "Structured Daily Routine",
+        "Nutritious Meals & Snacks",
+        "Activity-Based Learning Sessions",
+        "CCTV Access for Parents"
+      ],
+      "image": "/images/5.jpeg"
+    }
+  ],
+  "summer_class_section": {
+    "title": "Summer Class",
+    "features": [
+      "Fun & Safe Environment",
+      "Creative Learning Activities",
+      "Skill-based Workshops",
+      "Social & Emotional Development"
+    ]
+  },
+
+  "admissions_section": {
+    "title": "Admissions Open for 2025-26!!",
+    "subtitle": "Start your child's learning journey with Vriksha Kids Pre-School. Our simple admission process ensures that you get the best program for your child.",
+    "text": "",
+    "cta_text": "Enquire Now",
+    "href": "#enquiry-form",
+    "cards": [
+      {
+        "title": "Start Course",
+        "icon": "BookOpenCheck",
+        "description": "Choose a suitable program for your child based on their age and developmental stage."
+      },
+      {
+        "title": "Make Decision",
+        "icon": "GraduationCap",
+        "description": "Our team will assist you with school tours, curriculum details, and answer all your queries."
+      },
+      {
+        "title": "Get Enrolled",
+        "icon": "GraduationCap",
+        "description": "Complete the admission process and watch your child embark on a joyful learning adventure!"
+      }
+    ]
+  },
+
+  "why_vriksha_section": [
+    "Child-Friendly Ambience",
+    "Safety and Hygiene as Top Priority",
+    "Trained and Experienced Educators",
+    "Age-appropriate Curriculum",
+    "Montessori & Modern Teaching Methods",
+    "Focus on Holistic Development"
+  ],
+  "faq": [
+    {
+      "question": "What age groups do you provide childcare for?",
+      "answer": "We provide programs for children aged 1.5 years to 5.5 years, covering Toddlers, Preschoolers, Pre-KG/KG, and Daycare services."
+    },
+    {
+      "question": "How do I register my child for admission?",
+      "answer": "You can visit our school directly for a tour or register online through our website. Our admissions team will guide you through the process."
+    },
+    {
+      "question": "How do you handle emergencies or medical situations?",
+      "answer": "We have a strict safety protocol in place. Our staff is trained in basic first-aid and emergency response. Parents are immediately informed and we have tie-ups with nearby hospitals for urgent care."
+    },
+    {
+      "question": "Are there any special programs or extra-curricular activities?",
+      "answer": "Yes, we offer music, dance, art & craft, storytelling, puppet shows, and outdoor play as part of our extra-curricular activities to ensure a well-rounded development."
+    }
+  ],
+  "testimonials": {
+    "title": "what parents say",
+    "subtitle": "Here’s what happy parents have to say about Vriksha Kids Pre-School",
+    "review": [
+      {
+        "name": "Kavitha S",
+        "feedback": "We\u2019re so glad we found Vriksha. The teachers are warm and supportive...",
+        "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg"
+      },
+      {
+        "name": "Satish R",
+        "feedback": "Great school with a creative curriculum...",
+        "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+      },
+      {
+        "name": "Lakshmi A",
+        "feedback": "I\u2019m impressed by how caring and attentive the staff is...",
+        "image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "hero_section": {
+    "headline": "Where Little Minds Bloom with Big Dreams!",
+    "image": "/40.jpeg",
+    "cta_text": "Enquire Now",
+    "href": "/contact"
+  },
+  "info_cards": [
+    {
+      "title": "Empowering Little Minds",
+      "description": "We create an environment where every child feels confident, valued, and ready to learn.",
+      "icon": "HandHeart"
+    },
+    {
+      "title": "Building a Strong Community",
+      "description": "We foster a sense of belonging through parent involvement, cultural programs, and community events.",
+      "icon": "Boxes"
+    },
+    {
+      "title": "Tailored Learning for Every Child",
+      "description": "Our child-centric approach respects individual learning styles and paces.",
+      "icon": "Baby"
+    },
+    {
+      "title": "A Safe & Caring Place",
+      "description": "Safety and well-being are our top priorities — so your child feels secure every single day.",
+      "icon": "Castle"
+    }
+  ],
+  "award_cards": [
+    {
+      "icon": "Medal",
+      "title": "best pre-school in karur",
+      "year": "2024"
+    },
+    {
+      "icon": "Flame",
+      "title": "best montessori program",
+      "year": "2022"
+    },
+    {
+      "icon": "Star",
+      "title": "Parents' Choice Award",
+      "year": "2025"
+    },
+    {
+      "icon": "Gem",
+      "title": "Safe & hygiene learning spaces",
+      "year": "2020"
+    }
+  ],
+  "instructor_cards": [
+    {
+      "name": "Jenny Sifuentes",
+      "role": "Teacher",
+      "image": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"
+    },
+    {
+      "name": "Jenny",
+      "role": "Teacher",
+      "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg"
+    },
+    {
+      "name": "Sifuentes",
+      "role": "Teacher",
+      "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+    },
+    {
+      "name": "Sifuentes Jenny",
+      "role": "Teacher",
+      "image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg"
+    },
+    {
+      "name": "Senny Jifuentes",
+      "role": "Teacher",
+      "image": "https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg"
+    },
+    {
+      "name": "enny ifuentes",
+      "role": "Teacher",
+      "image": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg"
+    }
+  ],
+  "image_cards": [
+    {
+      "src": "/1.jpeg",
+      "alt": "tatoo 1",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/2.jpeg",
+      "alt": "tatoo 2",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/3.jpeg",
+      "alt": "tatoo 3",
+      "category": "Group Activities"
+    }
+  ],
+  "curriculum_cards": [
+    {
+      "icon": "/images/1.png",
+      "title": "YOUNG TODDLERS",
+      "ageGroup": "1.5 – 2.5 years"
+    },
+    {
+      "icon": "/images/2.png",
+      "title": "MONTESSORI",
+      "ageGroup": "2.5 – 3.5 years"
+    },
+    {
+      "icon": "/images/3.png",
+      "title": "PRESCHOOLERS",
+      "ageGroup": "3.5 – 4.5 years"
+    },
+    {
+      "icon": "/images/4.png",
+      "title": "PRE-K",
+      "ageGroup": "4.5 – 5+ years"
+    }
+  ],
+  "program_cards": [
+    {
+      "image": "/35.jpeg",
+      "title": "SUMMER CLASS",
+      "sub_title": "Ages 3–5 years",
+      "description": "Fun, engaging, and skill-building summer programs to keep your child active and happy."
+    },
+    {
+      "image": "/38.jpeg",
+      "title": "KG / LKG",
+      "sub_title": "Ages 3.5–5 years",
+      "description": "A playful introduction to structured learning — preparing children for a smooth school transition."
+    },
+    {
+      "image": "/18.jpeg",
+      "title": "DAYCARE",
+      "sub_title": "Ages 1.5–5.5 years",
+      "description": "A safe, loving environment with learning-based care for working parents and active toddlers."
+    }
+  ],
+  "about_section": {
+    "image": "/images/left.png",
+    "title": "A Whole New World of Learning, Care & Play",
+    "subtitle": "About Vriksha Pre-School",
+    "description": "At Vriksha Kids Pre-School, we provide a secure, joyful, and stimulating environment where your child can explore, learn, and grow. Our thoughtfully crafted curriculum supports every aspect of a child’s development — emotional, social, cognitive, and physical. With a passionate team of trained educators, we focus on personalized care, ensuring your child’s early learning journey is filled with happiness, discovery, and love.",
+    "cta_text": "Read More About Us",
+    "href": "/about"
+  },
+  "marquee_section": {
+    "first": "VRIKSHA KIDS PRE-SCHOOL",
+    "second": "BEST PRE-SCHOOL IN KARUR"
+  },
+  "vision_section": {
+    "title": "our vision",
+    "subtitle": "Building a Brighter Future for Reliable ChildCare",
+    "text": "We are dedicated to helping Child thrive, succeed, and find fulfillment in all aspects of their lives.",
+    "cta_text": "Learn More",
+    "href": "/about",
+    "cards": [
+      {
+        "title": "Empowering Little Minds",
+        "description": "We create an environment where every child feels confident, valued, and ready to learn.",
+        "icon": "HandHeart"
+      },
+      {
+        "title": "Building a Strong Community",
+        "description": "We foster a sense of belonging through parent involvement, cultural programs, and community events.",
+        "icon": "Boxes"
+      },
+      {
+        "title": "Tailored Learning for Every Child",
+        "description": "Our child-centric approach respects individual learning styles and paces.",
+        "icon": "Baby"
+      }
+    ]
+  },
+  "curriculum_section": {
+    "title": "Our Curriculum",
+    "subtitle": "The Perfect Start for Your Child’s Learning Journey",
+    "text": "At Vriksha Kids Pre-School, our curriculum is carefully designed to support different age groups with age-appropriate activities, guided discovery, and joyful learning.",
+
+    "curriculums": [
+      {
+        "icon": "/images/1.png",
+        "title": "YOUNG TODDLERS",
+        "ageGroup": "1.5 – 2.5 years"
+      },
+      {
+        "icon": "/images/2.png",
+        "title": "MONTESSORI",
+        "ageGroup": "2.5 – 3.5 years"
+      },
+      {
+        "icon": "/images/3.png",
+        "title": "PRESCHOOLERS",
+        "ageGroup": "3.5 – 4.5 years"
+      },
+      {
+        "icon": "/images/4.png",
+        "title": "PRE-K",
+        "ageGroup": "4.5 – 5+ years"
+      }
+    ]
+  },
+  "program_section": {
+    "title": "Choose the Right Program for Your Child",
+    "subtitle": "We offer a variety of classes that suit your child’s age, interests, and developmental stage.",
+    "cta_text": "Read More",
+    "href": "/programs",
+    "programs": [
+      {
+        "image": "/35.jpeg",
+        "title": "SUMMER CLASS",
+        "sub_title": "Ages 3–5 years",
+        "description": "Fun, engaging, and skill-building summer programs to keep your child active and happy."
+      },
+      {
+        "image": "/38.jpeg",
+        "title": "KG / LKG",
+        "sub_title": "Ages 3.5–5 years",
+        "description": "A playful introduction to structured learning — preparing children for a smooth school transition."
+      },
+      {
+        "image": "/18.jpeg",
+        "title": "DAYCARE",
+        "sub_title": "Ages 1.5–5.5 years",
+        "description": "A safe, loving environment with learning-based care for working parents and active toddlers."
+      }
+    ]
+  },
+  "why_early_education": {
+    "image": "/images/why.png",
+    "title": "Why Early Childhood Education Matters",
+    "description": "Research shows that the first five years of a child’s life lay the foundation for future success.  At Vriksha Kids Pre-School, we focus on holistic growth — helping children develop socially, emotionally, physically, and intellectually in a happy and secure environment. Whether it’s through play, stories, or structured lessons, our programs make learning fun and meaningful. ",
+    "statistics": [
+      { "stat": 100, "prefix": "%", "label": " Play-Based Learning" },
+      { "stat": 3, "prefix": "+", "label": "Years of Experience" },
+      { "stat": 150, "prefix": "+ ", "label": "5-Star Google Reviews" },
+      { "stat": 200, "prefix": "+", "label": "Happy Students" }
+    ]
+  },
+  "awards_section": {
+    "title": "Our Awards & Recognitions",
+    "text": "At Vriksha Kids Pre-School, our commitment to providing a safe, joyful, and enriching learning environment has been recognized by parents and education communities alike. Every award we receive reflects our dedication to nurturing young minds with love andexcellence.",
+    "awards": [
+      {
+        "icon": "Medal",
+        "title": "best pre-school in karur",
+        "year": "2024"
+      },
+      {
+        "icon": "Flame",
+        "title": "best montessori program",
+        "year": "2022"
+      },
+      {
+        "icon": "Star",
+        "title": "Parents' Choice Award",
+        "year": "2025"
+      },
+      {
+        "icon": "Gem",
+        "title": "Safe & hygiene learning spaces",
+        "year": "2020"
+      }
+    ]
+  },
+  "testimonials": {
+    "title": "what parents say",
+    "subtitle": "Here’s what happy parents have to say about Vriksha Kids Pre-School",
+    "review": [
+      {
+        "name": "Kavitha S",
+        "feedback": "We\u2019re so glad we found Vriksha. The teachers are warm and supportive...",
+        "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg"
+      },
+      {
+        "name": "Satish R",
+        "feedback": "Great school with a creative curriculum...",
+        "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+      },
+      {
+        "name": "Lakshmi A",
+        "feedback": "I\u2019m impressed by how caring and attentive the staff is...",
+        "image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg"
+      }
+    ]
+  },
+  "philosophy_section": {
+    "title": "Our Philosophy",
+    "image": "/38.jpeg",
+    "description": "At Vriksha Kids Pre-School, we focus on nurturing each child’s unique potential through structured activities, guided play, and personalized care. Our philosophy is rooted in providing a holistic learning environment that prepares children not just academically, but also socially and emotionally.",
+    "cards": [
+      {
+        "title": "Empowering Little Minds",
+        "description": "We create an environment where every child feels confident, valued, and ready to learn.",
+        "icon": "HandHeart"
+      },
+      {
+        "title": "Building a Strong Community",
+        "description": "We foster a sense of belonging through parent involvement, cultural programs, and community events.",
+        "icon": "Boxes"
+      },
+      {
+        "title": "Tailored Learning for Every Child",
+        "description": "Our child-centric approach respects individual learning styles and paces.",
+        "icon": "Baby"
+      },
+      {
+        "title": "Tailored Learning for Every Child",
+        "description": "Our child-centric approach respects individual learning styles and paces.",
+        "icon": "Baby"
+      }
+    ]
+  },
+  "instructors": {
+    "title": "Meet Our Instructors",
+    "description": "Our teachers are not just educators — they are mentors and caregivers who play a key role in shaping your child’s early years. Each member of our team is dedicated to fostering curiosity, kindness, and creativity, ensuring your child feels safe, loved, and inspired to learn.  We believe that a child’s learning journey is only as strong as the people who guide it. That’s why we have a passionate and caring team that nurtures every child’s growth with patience, empathy, and dedication.",
+    "instructor": [
+      {
+        "name": "Jenny Sifuentes",
+        "role": "Teacher",
+        "image": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"
+      },
+      {
+        "name": "Jenny",
+        "role": "Teacher",
+        "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg"
+      },
+      {
+        "name": "Sifuentes",
+        "role": "Teacher",
+        "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+      },
+      {
+        "name": "Sifuentes Jenny",
+        "role": "Teacher",
+        "image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg"
+      },
+      {
+        "name": "Senny Jifuentes",
+        "role": "Teacher",
+        "image": "https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg"
+      },
+      {
+        "name": "enny ifuentes",
+        "role": "Teacher",
+        "image": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg"
+      }
+    ]
+  },
+  "programs_list": [
+    "Young Toddlers (1.5 – 2.5 Years)",
+    "Montessori Program (2.5 – 3.5 Years)",
+    "Preschoolers (3.5 – 4.5 Years)",
+    "Pre-KG / KG (4.5 – 5 Years)",
+    "Daycare Services (1.5 – 5.5 Years)"
+  ],
+  "programs_details": [
+    {
+      "title": "Young Toddlers Program",
+      "description": "Our Young Toddlers Program is designed for children aged 1.5 to 2.5 years. It focuses on nurturing curiosity, developing fine and gross motor skills, and fostering early social interaction. We create a safe and caring environment where toddlers explore through sensory activities and guided play.",
+      "features": [
+        "Safe & Hygienic Play Areas",
+        "Sensory Play & Exploration",
+        "Language & Communication Development",
+        "Social Interaction & Group Play",
+        "Parent-Child Bonding Sessions"
+      ],
+      "image": "/images/1.jpeg"
+    },
+    {
+      "title": "Montessori Program",
+      "description": "Vrishka’s Montessori Program introduces structured, child-centered learning for children aged 2.5 to 3.5 years. Through hands-on activities and practical life exercises, children develop independence, focus, and problem-solving skills in a nurturing environment.",
+      "features": [
+        "Certified Montessori Curriculum",
+        "Hands-On Learning Materials",
+        "Self-Learning & Independence",
+        "Sensorial & Practical Life Activities",
+        "Cognitive & Emotional Growth"
+      ],
+      "image": "/images/2.jpeg"
+    },
+    {
+      "title": "Preschoolers Program",
+      "description": "Designed for children aged 3.5 to 4.5 years, our Preschoolers Program blends academic readiness with creativity and play. We focus on developing literacy, numeracy, social skills, and emotional intelligence through interactive learning.",
+      "features": [
+        "Pre-Literacy & Numeracy Skills",
+        "Art & Craft Workshops",
+        "Music, Dance & Storytelling",
+        "Outdoor Play & Physical Development",
+        "Social & Emotional Skill Building"
+      ],
+      "image": "/images/3.jpeg"
+    },
+    {
+      "title": "Pre-KG / KG Program",
+      "description": "Our Pre-KG and Kindergarten Program prepares children aged 4.5 to 5 years for formal schooling. The curriculum emphasizes academic readiness, leadership, and collaborative learning while ensuring a joyful learning environment.",
+      "features": [
+        "Language, Math & Science Foundation",
+        "Theme-Based & Project Learning",
+        "Leadership & Teamwork Activities",
+        "Field Trips & Experiential Learning",
+        "Physical Education & Sports"
+      ],
+      "image": "/images/4.jpeg"
+    },
+    {
+      "title": "Daycare Services",
+      "description": "Vrishka’s Daycare offers a safe and caring environment for children aged 1.5 to 5.5 years. Our daycare is structured with playtime, learning, rest periods, and nutritious meals to ensure a balanced and enriching experience.",
+      "features": [
+        "Safe & Hygienic Facilities",
+        "Structured Daily Routine",
+        "Nutritious Meals & Snacks",
+        "Activity-Based Learning Sessions",
+        "CCTV Access for Parents"
+      ],
+      "image": "/images/5.jpeg"
+    }
+  ],
+  "admissions_section": {
+    "title": "Admissions Open for 2025-26!!",
+    "subtitle": "Start your child's learning journey with Vriksha Kids Pre-School. Our simple admission process ensures that you get the best program for your child.",
+    "text": "",
+    "cta_text": "Enquire Now",
+    "href": "#enquiry-form",
+    "cards": [
+      {
+        "title": "Start Course",
+        "icon": "BookOpenCheck",
+        "description": "Choose a suitable program for your child based on their age and developmental stage."
+      },
+      {
+        "title": "Make Decision",
+        "icon": "GraduationCap",
+        "description": "Our team will assist you with school tours, curriculum details, and answer all your queries."
+      },
+      {
+        "title": "Get Enrolled",
+        "icon": "GraduationCap",
+        "description": "Complete the admission process and watch your child embark on a joyful learning adventure!"
+      }
+    ]
+  },
+  "why_vriksha_section": [
+    "Child-Friendly Ambience",
+    "Safety and Hygiene as Top Priority",
+    "Trained and Experienced Educators",
+    "Age-appropriate Curriculum",
+    "Montessori & Modern Teaching Methods",
+    "Focus on Holistic Development"
+  ],
+  "faq": [
+    {
+      "question": "What age groups do you provide childcare for?",
+      "answer": "We provide programs for children aged 1.5 years to 5.5 years, covering Toddlers, Preschoolers, Pre-KG/KG, and Daycare services."
+    },
+    {
+      "question": "How do I register my child for admission?",
+      "answer": "You can visit our school directly for a tour or register online through our website. Our admissions team will guide you through the process."
+    },
+    {
+      "question": "How do you handle emergencies or medical situations?",
+      "answer": "We have a strict safety protocol in place. Our staff is trained in basic first-aid and emergency response. Parents are immediately informed and we have tie-ups with nearby hospitals for urgent care."
+    },
+    {
+      "question": "Are there any special programs or extra-curricular activities?",
+      "answer": "Yes, we offer music, dance, art & craft, storytelling, puppet shows, and outdoor play as part of our extra-curricular activities to ensure a well-rounded development."
+    }
+  ],
+  "categories": ["Group Activities", "Games", "Puppet Shows"],
+  "images": [
+    {
+      "src": "/images/1.jpeg",
+      "alt": "tatoo 1",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/2.jpeg",
+      "alt": "tatoo 2",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/3.jpeg",
+      "alt": "tatoo 3",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/4.jpeg",
+      "alt": "tattoo 4",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/5.jpeg",
+      "alt": "tattoo 5",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/6.jpeg",
+      "alt": "tattoo 6",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/7.jpeg",
+      "alt": "tattoo 7",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/8.jpeg",
+      "alt": "tattoo 8",
+      "category": "Games"
+    },
+    {
+      "src": "/images/9.jpeg",
+      "alt": "tattoo 9",
+      "category": "Games"
+    },
+    {
+      "src": "/images/10.jpeg",
+      "alt": "tattoo 10",
+      "category": "Games"
+    },
+    {
+      "src": "/images/11.jpeg",
+      "alt": "tattoo 11",
+      "category": "Games"
+    },
+    {
+      "src": "/images/12.jpeg",
+      "alt": "tattoo 12",
+      "category": "Games"
+    },
+    {
+      "src": "/images/13.jpeg",
+      "alt": "tattoo 13",
+      "category": "Games"
+    },
+    {
+      "src": "/images/14.jpeg",
+      "alt": "tattoo 14",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/15.jpeg",
+      "alt": "tattoo 15",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/16.jpeg",
+      "alt": "tattoo 16",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/17.jpeg",
+      "alt": "tattoo 17",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/18.jpeg",
+      "alt": "tattoo 18",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/19.jpeg",
+      "alt": "tattoo 19",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/20.jpeg",
+      "alt": "tattoo 20",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/21.jpeg",
+      "alt": "tattoo 21",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/23.jpeg",
+      "alt": "tattoo 22",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/24.jpeg",
+      "alt": "tattoo 23",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/25.jpeg",
+      "alt": "tattoo 24",
+      "category": "Group Activities"
+    }
+  ],
+  "instagram_section": {
+    "title": "Follow Our Instagram",
+    "instagram": "https://www.instagram.com/vriksha_kids/",
+    "images": [
+      "/images/1./images",
+      "/images/2.jpeg",
+      "/images/3.jpeg",
+      "/images/4.jpeg"
+    ]
+  },
+  "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.9764052236073!2d78.0473511!3d10.9651534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baa2f88f4afc507%3A0x2a8e686b91d1ce4d!2sVRIKSHA%20KIDS%20PRE-SCHOOL!5e0!3m2!1sen!2sin!4v1753406222813!5m2!1sen!2sin",
+
+  "information": [
+    {
+      "title": "Vriksha Kids Pre-School",
+      "info": [
+        "2/7, Indira Theatre Street,",
+        "Reddipalayam,",
+        "Karur – 639002, Tamil Nadu"
+      ]
+    },
+    {
+      "title": "Reach Out To Us",
+      "info": ["vrikshakidsschool@gmail.com", "+91 790 090 0481"]
+    },
+    {
+      "title": "Working Hours",
+      "info": [
+        "Monday – Friday: 9:30 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 6:00 PM (By Appointment Only)"
+      ]
+    }
+  ]
+}

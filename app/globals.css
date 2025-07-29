@@ -1,0 +1,77 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme inline {
+  /* colors */
+  --color-dark: #151515;
+  --color-accent: #1dc1b6;
+  --color-tertiary: #ffffff;
+  --color-text-dark: #151515;
+  --color-effect: #ec3a69;
+  --color-disabled: #979797;
+  --color-hover-primary: #f3819f;
+  --color-hover-secondary: #a5f1ec;
+
+  /* fonts  */
+  --font-primary: "Federo", sans-serif;
+  /* -- "Inter", sans-serif; */
+}
+
+/* html,
+body {
+  height: 100%;
+} */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+  position: relative;
+  height: auto;
+}
+
+@layer base {
+  body {
+    @apply bg-tertiary font-primary leading-relaxed tracking-wider text-text-dark overflow-x-hidden;
+  }
+}
+
+@layer components {
+  .h1 {
+    @apply font-primary text-[28px] md:text-[40px] xl:text-[54px] leading-tight tracking-tight font-extrabold uppercase;
+  }
+
+  .h2 {
+    @apply font-primary text-[22px] md:text-[32px] xl:text-[44px] leading-snug tracking-tight font-bold uppercase;
+  }
+
+  .h3 {
+    @apply font-primary text-[18px] md:text-[26px] xl:text-[36px] leading-snug font-semibold uppercase;
+  }
+
+  .h4 {
+    @apply font-primary text-[16px] md:text-[20px] xl:text-[28px] leading-snug font-medium uppercase;
+  }
+
+  .h5 {
+    @apply font-primary text-[14px] md:text-[16px] xl:text-[21px] leading-normal font-medium uppercase;
+  }
+
+  .body-bold {
+    @apply font-semibold text-text-dark;
+  }
+
+  .body-small {
+    @apply text-[10px] md:text-[12px] font-normal text-text-dark;
+  }
+
+  .body-disabled {
+    @apply font-normal text-text-dark opacity-50;
+  }
+}
+
+@utility containerBody {
+  @apply max-w-5xl xl:max-w-6xl mx-auto px-5 py-6 container;
+}

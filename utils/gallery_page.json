@@ -1,0 +1,138 @@
+{
+  "hero_section": {
+    "title": "Gallery"
+  },
+  "categories": ["Group Activities", "Games", "Puppet Shows"],
+  "images": [
+    {
+      "src": "/images/1.jpeg",
+      "alt": "tatoo 1",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/2.jpeg",
+      "alt": "tatoo 2",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/3.jpeg",
+      "alt": "tatoo 3",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/4.jpeg",
+      "alt": "tattoo 4",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/5.jpeg",
+      "alt": "tattoo 5",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/6.jpeg",
+      "alt": "tattoo 6",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/7.jpeg",
+      "alt": "tattoo 7",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/8.jpeg",
+      "alt": "tattoo 8",
+      "category": "Games"
+    },
+    {
+      "src": "/images/9.jpeg",
+      "alt": "tattoo 9",
+      "category": "Games"
+    },
+    {
+      "src": "/images/10.jpeg",
+      "alt": "tattoo 10",
+      "category": "Games"
+    },
+    {
+      "src": "/images/11.jpeg",
+      "alt": "tattoo 11",
+      "category": "Games"
+    },
+    {
+      "src": "/images/12.jpeg",
+      "alt": "tattoo 12",
+      "category": "Games"
+    },
+    {
+      "src": "/images/13.jpeg",
+      "alt": "tattoo 13",
+      "category": "Games"
+    },
+    {
+      "src": "/images/14.jpeg",
+      "alt": "tattoo 14",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/15.jpeg",
+      "alt": "tattoo 15",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/16.jpeg",
+      "alt": "tattoo 16",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/17.jpeg",
+      "alt": "tattoo 17",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/18.jpeg",
+      "alt": "tattoo 18",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/19.jpeg",
+      "alt": "tattoo 19",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/20.jpeg",
+      "alt": "tattoo 20",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/21.jpeg",
+      "alt": "tattoo 21",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/23.jpeg",
+      "alt": "tattoo 22",
+      "category": "Puppet Shows"
+    },
+    {
+      "src": "/images/24.jpeg",
+      "alt": "tattoo 23",
+      "category": "Group Activities"
+    },
+    {
+      "src": "/images/25.jpeg",
+      "alt": "tattoo 24",
+      "category": "Group Activities"
+    }
+  ],
+  "instagram_section": {
+    "title": "Follow Our Instagram",
+    "instagram": "https://www.instagram.com/vriksha_kids/",
+    "images": [
+      "/images/1.jpeg",
+      "/images/2.jpeg",
+      "/images/3.jpeg",
+      "/images/4.jpeg"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "logo": "Vriksha Kids Pre-School",
+  "mata_title": "Vriksha Kids Pre-School — Where Little Minds Bloom with Big Dreams!",
+  "meta_description": "At Vriksha Kids Pre-School, we provide a secure, joyful, and stimulating environment where your child can explore, learn, and grow.",
+  "navbar": {
+    "menu": [
+      { "name": "Home", "href": "/" },
+      { "name": "About", "href": "/about" },
+      { "name": "Programs", "href": "/programs" },
+      { "name": "Gallery", "href": "/gallery" },
+      { "name": "Contact", "href": "/contact" }
+    ]
+  },
+  "image": "https://images.pexels.com/photos/30829296/pexels-photo-30829296.jpeg",
+  "title": "Vriksha Kids Pre-School",
+  "subTitle": "Where Little Minds Bloom with Big Dreams!",
+  "marquee_section": {
+    "first": "VRIKSHA KIDS PRE-SCHOOL",
+    "second": "BEST PRE-SCHOOL IN KARUR"
+  },
+  "phoneNumber_whatsapp": "919876543210",
+  "social_links": [
+    {
+      "icon": "Facebook",
+      "socialLink": "https://www.facebook.com/p/Vriksha-Kids-Pre-School-100083040863671/"
+    },
+    {
+      "icon": "Instagram",
+      "socialLink": "https://www.instagram.com/vriksha_kids/"
+    }
+  ],
+  "footer": [
+    {
+      "title": "Address",
+      "lines": [
+        "2/7, Indira Theatre Street, Reddipalayam, Karur – 639002",
+        "Email: vrikshakidsschool@gmail.com",
+        "Mobile: +91 790 090 0481"
+      ]
+    },
+    {
+      "title": "Working Hours",
+      "lines": [
+        "Mon – Fri: 9:30 AM – 2:00 PM",
+        "Saturday: Closed",
+        "Sunday: Closed"
+      ]
+    }
+  ],
+  "credit": "© 2025, Vriksha Kids Pre-School | All rights reserved."
+}

@@ -1,0 +1,155 @@
+{
+  "hero_section": {
+    "headline": "Where Little Minds Bloom with Big Dreams!",
+    "image": "/images/40.jpeg",
+    "cta_text": "Enquire Now",
+    "href": "/contact"
+  },
+  "about_section": {
+    "image": "/images/left.png",
+    "title": "A Whole New World of Learning, Care & Play",
+    "subtitle": "About Vriksha Pre-School",
+    "description": "At Vriksha Kids Pre-School, we provide a secure, joyful, and stimulating environment where your child can explore, learn, and grow. Our thoughtfully crafted curriculum supports every aspect of a child’s development — emotional, social, cognitive, and physical. With a passionate team of trained educators, we focus on personalized care, ensuring your child’s early learning journey is filled with happiness, discovery, and love.",
+    "cta_text": "Read More About Us",
+    "href": "/about"
+  },
+  "vision_section": {
+    "title": "our vision",
+    "subtitle": "Building a Brighter Future for Reliable ChildCare",
+    "text": "We are dedicated to helping Child thrive, succeed, and find fulfillment in all aspects of their lives.",
+    "cta_text": "Learn More",
+    "href": "/about",
+    "cards": [
+      {
+        "title": "Empowering Little Minds",
+        "description": "We create an environment where every child feels confident, valued, and ready to learn.",
+        "icon": "HandHeart"
+      },
+      {
+        "title": "Building a Strong Community",
+        "description": "We foster a sense of belonging through parent involvement, cultural programs, and community events.",
+        "icon": "Boxes"
+      },
+      {
+        "title": "Tailored Learning for Every Child",
+        "description": "Our child-centric approach respects individual learning styles and paces.",
+        "icon": "Baby"
+      }
+    ]
+  },
+  "curriculum_section": {
+    "title": "Our Curriculum",
+    "subtitle": "The Perfect Start for Your Child’s Learning Journey",
+    "text": "At Vriksha Kids Pre-School, our curriculum is carefully designed to support different age groups with age-appropriate activities, guided discovery, and joyful learning.",
+
+    "curriculums": [
+      {
+        "icon": "/images/1.png",
+        "title": "YOUNG TODDLERS",
+        "ageGroup": "1.5 – 2.5 years"
+      },
+      {
+        "icon": "/images/2.png",
+        "title": "MONTESSORI",
+        "ageGroup": "2.5 – 3.5 years"
+      },
+      {
+        "icon": "/images/3.png",
+        "title": "PRESCHOOLERS",
+        "ageGroup": "3.5 – 4.5 years"
+      },
+      {
+        "icon": "/images/4.png",
+        "title": "PRE-K",
+        "ageGroup": "4.5 – 5+ years"
+      }
+    ]
+  },
+  "program_section": {
+    "title": "Choose the Right Program for Your Child",
+    "subtitle": "We offer a variety of classes that suit your child’s age, interests, and developmental stage.",
+    "cta_text": "Read More",
+    "href": "/programs",
+    "programs": [
+      {
+        "image": "/images/35.jpeg",
+        "title": "SUMMER CLASS",
+        "sub_title": "Ages 3–5 years",
+        "description": "Fun, engaging, and skill-building summer programs to keep your child active and happy."
+      },
+      {
+        "image": "/images/38.jpeg",
+        "title": "KG / LKG",
+        "sub_title": "Ages 3.5–5 years",
+        "description": "A playful introduction to structured learning — preparing children for a smooth school transition."
+      },
+      {
+        "image": "/images/18.jpeg",
+        "title": "DAYCARE",
+        "sub_title": "Ages 1.5–5.5 years",
+        "description": "A safe, loving environment with learning-based care for working parents and active toddlers."
+      }
+    ]
+  },
+
+  "why_early_education": {
+    "image": "/images/why.png",
+    "title": "Why Early Childhood Education Matters",
+    "description": "Research shows that the first five years of a child’s life lay the foundation for future success.  At Vriksha Kids Pre-School, we focus on holistic growth — helping children develop socially, emotionally, physically, and intellectually in a happy and secure environment. Whether it’s through play, stories, or structured lessons, our programs make learning fun and meaningful. ",
+    "statistics": [
+      { "stat": 100, "prefix": "%", "label": " Play-Based Learning" },
+      { "stat": 3, "prefix": "+", "label": "Years of Experience" },
+      { "stat": 150, "prefix": "+ ", "label": "5-Star Google Reviews" },
+      { "stat": 200, "prefix": "+", "label": "Happy Students" }
+    ]
+  },
+
+  "awards_section": {
+    "title": "Our Awards & Recognitions",
+    "text": "At Vriksha Kids Pre-School, our commitment to providing a safe, joyful, and enriching learning environment has been recognized by parents and education communities alike. Every award we receive reflects our dedication to nurturing young minds with love andexcellence.",
+    "awards": [
+      {
+        "icon": "Medal",
+        "title": "best pre-school in karur",
+        "year": "2024"
+      },
+      {
+        "icon": "Flame",
+        "title": "best montessori program",
+        "year": "2022"
+      },
+      {
+        "icon": "Star",
+        "title": "Parents' Choice Award",
+        "year": "2025"
+      },
+      {
+        "icon": "Gem",
+        "title": "Safe & hygiene learning spaces",
+        "year": "2020"
+      }
+    ]
+  },
+
+  "testimonials": {
+    "title": "what parents say",
+    "subtitle": "Here’s what happy parents have to say about Vriksha Kids Pre-School",
+    "review": [
+      {
+        "name": "Kavitha S",
+        "feedback": "We\u2019re so glad we found Vriksha. The teachers are warm and supportive...",
+        "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg"
+      },
+      {
+        "name": "Satish R",
+        "feedback": "Great school with a creative curriculum...",
+        "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+      },
+      {
+        "name": "Lakshmi A",
+        "feedback": "I\u2019m impressed by how caring and attentive the staff is...",
+        "image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg"
+      }
+    ]
+  }
+}

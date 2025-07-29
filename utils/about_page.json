@@ -1,0 +1,122 @@
+{
+  "hero_section": {
+    "title": "About"
+  },
+
+  "about_section": {
+    "image": "/images/left.png",
+    "title": "Welcome to Vriksha Pre-School, Kindergarten, Play School & Daycare in Karur!",
+    "description": "At Vriksha Kids Pre-School, we provide a secure, joyful, and stimulating environment where your child can explore, learn, and grow. Our thoughtfully crafted curriculum supports every aspect of a child’s development — emotional, social, cognitive, and physical. With a passionate team of trained educators, we focus on personalized care, ensuring your child’s early learning journey is filled with happiness, discovery, and love."
+  },
+  "welcome_section": {
+    "title": "Welcome to Vriksha Pre-School, Kindergarten, Play School & Daycare in Karur!",
+    "description": "We are passionate about nurturing young minds..."
+  },
+
+  "philosophy_section": {
+    "title": "Our Philosophy",
+    "image": "/images/38.jpeg",
+    "description": "At Vriksha Kids Pre-School, we focus on nurturing each child’s unique potential through structured activities, guided play, and personalized care. Our philosophy is rooted in providing a holistic learning environment that prepares children not just academically, but also socially and emotionally.",
+    "cards": [
+      {
+        "title": "Empowering Little Minds",
+        "description": "We create an environment where every child feels confident, valued, and ready to learn.",
+        "icon": "HandHeart"
+      },
+      {
+        "title": "Building a Strong Community",
+        "description": "We foster a sense of belonging through parent involvement, cultural programs, and community events.",
+        "icon": "Boxes"
+      },
+      {
+        "title": "Tailored Learning for Every Child",
+        "description": "Our child-centric approach respects individual learning styles and paces.",
+        "icon": "Baby"
+      },
+      {
+        "title": "Tailored Learning for Every Child",
+        "description": "Our child-centric approach respects individual learning styles and paces.",
+        "icon": "Baby"
+      }
+    ]
+  },
+  "awards_section": {
+    "title": "Our Awards & Recognitions",
+    "text": "At Vriksha Kids Pre-School, our commitment to providing a safe, joyful, and enriching learning environment has been recognized by parents and education communities alike. Every award we receive reflects our dedication to nurturing young minds with love andexcellence.",
+    "awards": [
+      {
+        "icon": "Medal",
+        "title": "best pre-school in karur",
+        "year": "2024"
+      },
+      {
+        "icon": "Flame",
+        "title": "best montessori program",
+        "year": "2022"
+      },
+      {
+        "icon": "Star",
+        "title": "Parents' Choice Award",
+        "year": "2025"
+      },
+      {
+        "icon": "Gem",
+        "title": "Safe & hygiene learning spaces",
+        "year": "2020"
+      }
+    ]
+  },
+  "statistics": [
+    { "stat": 100, "prefix": "%", "label": " Play-Based Learning" },
+    { "stat": 3, "prefix": "+", "label": "Years of Experience" },
+    { "stat": 150, "prefix": "+ ", "label": "5-Star Google Reviews" },
+    { "stat": 200, "prefix": "+", "label": "Happy Students" }
+  ],
+  "why_early_education": {
+    "image": "/images/why.png",
+    "title": "Why Early Education Matters at Vriksha",
+    "description": "Are you looking for the best preschool in Karur to kickstart your child’s learning journey?  At Vriksha Kids Pre-School, we understand how crucial the early years are for a child’s brain development, emotional growth, and social skills. Through a blend of structured learning and play, we ensure that children learn essential life skills in a joyful and stress-free environment. We foster curiosity, creativity, and a love for learning that stays with them throughout their lives. Every child deserves a place where they are loved, valued, and guided to become the best version of themselves. At Vriksha, we offer just that.",
+    "statistics": [
+      { "stat": 100, "prefix": "%", "label": " Play-Based Learning" },
+      { "stat": 3, "prefix": "+", "label": "Years of Experience" },
+      { "stat": 150, "prefix": "+ ", "label": "5-Star Google Reviews" },
+      { "stat": 200, "prefix": "+", "label": "Happy Students" }
+    ]
+  },
+  "instructors": {
+    "title": "Meet Our Instructors",
+    "description": "Our teachers are not just educators — they are mentors and caregivers who play a key role in shaping your child’s early years. Each member of our team is dedicated to fostering curiosity, kindness, and creativity, ensuring your child feels safe, loved, and inspired to learn.  We believe that a child’s learning journey is only as strong as the people who guide it. That’s why we have a passionate and caring team that nurtures every child’s growth with patience, empathy, and dedication.",
+    "instructor": [
+      {
+        "name": "Jenny Sifuentes",
+        "role": "Teacher",
+        "image": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"
+      },
+      {
+        "name": "Jenny",
+        "role": "Teacher",
+        "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg"
+      },
+      {
+        "name": "Sifuentes",
+        "role": "Teacher",
+        "image": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg"
+      },
+      {
+        "name": "Sifuentes Jenny",
+        "role": "Teacher",
+        "image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg"
+      },
+      {
+        "name": "Senny Jifuentes",
+        "role": "Teacher",
+        "image": "https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg"
+      },
+      {
+        "name": "enny ifuentes",
+        "role": "Teacher",
+        "image": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg"
+      }
+    ]
+  }
+}

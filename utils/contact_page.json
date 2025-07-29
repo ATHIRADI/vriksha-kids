@@ -1,0 +1,28 @@
+{
+  "hero_section": {
+    "title": "Contact"
+  },
+  "location": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.9764052236073!2d78.0473511!3d10.9651534!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3baa2f88f4afc507%3A0x2a8e686b91d1ce4d!2sVRIKSHA%20KIDS%20PRE-SCHOOL!5e0!3m2!1sen!2sin!4v1753406222813!5m2!1sen!2sin",
+
+  "information": [
+    {
+      "title": "Vriksha Kids Pre-School",
+      "info": [
+        "2/7, Indira Theatre Street,",
+        "Reddipalayam,",
+        "Karur – 639002, Tamil Nadu"
+      ]
+    },
+    {
+      "title": "Reach Out To Us",
+      "info": ["vrikshakidsschool@gmail.com", "+91 790 090 0481"]
+    },
+    {
+      "title": "Working Hours",
+      "info": [
+        "Monday – Friday: 9:30 AM – 5:00 PM",
+        "Sunday: 11:00 AM – 6:00 PM (By Appointment Only)"
+      ]
+    }
+  ]
+}
