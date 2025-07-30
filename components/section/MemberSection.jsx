@@ -77,7 +77,10 @@ export default function MemberSection({ data }) {
       ref={sectionRef}
       className="bg-tertiary containerBody space-y-4 py-16 xl:py-32 right"
     >
-      <SectionTitle title={data.title} className="text-text-dark text-start" />
+      <SectionTitle
+        title={data.title}
+        className="text-text-dark text-start below"
+      />
       <p className="below">{data.description}</p>
 
       <div className="grid grid-cols-2 md:grid-cols-3 gap-5 below mt-12 z-50 relative">

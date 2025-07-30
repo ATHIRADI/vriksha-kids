@@ -29,7 +29,7 @@ export default function VisionSection({ data }) {
         {
           y: 0,
           opacity: 1,
-          duration: 0.3,
+          duration: 0.6,
           ease: "power2.out",
           stagger: 0.1,
         }
@@ -41,7 +41,7 @@ export default function VisionSection({ data }) {
         {
           x: 0,
           opacity: 1,
-          duration: 0.3,
+          duration: 0.6,
           ease: "power2.out",
           stagger: 0.1,
         }
@@ -53,7 +53,7 @@ export default function VisionSection({ data }) {
         {
           x: 0,
           opacity: 1,
-          duration: 0.3,
+          duration: 0.6,
           ease: "power2.out",
           stagger: 0.1,
         }
@@ -80,7 +80,7 @@ export default function VisionSection({ data }) {
       className="py-16 xl:py-32 containerBody text-text-dark top"
     >
       <div className=" w-full space-y-6 flex flex-col items-center justify-center">
-        <div className="max-w-3xl space-y-6 left">
+        <div className="max-w-3xl space-y-6 ">
           <SectionTitle
             title={data.title}
             subtitle={data.subtitle}
@@ -89,7 +89,7 @@ export default function VisionSection({ data }) {
           <p className="">{data.text}</p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-2 ">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-2">
           {data.cards.map((service, index) => (
             <InfoCard
               key={index}

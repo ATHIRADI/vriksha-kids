@@ -28,7 +28,7 @@ export default function WhyEducationSection({ data, className }) {
         {
           y: 0,
           opacity: 1,
-          duration: 0.3,
+          duration: 0.6,
           ease: "power2.out",
           stagger: 0.1,
         }
@@ -40,7 +40,7 @@ export default function WhyEducationSection({ data, className }) {
         {
           x: 0,
           opacity: 1,
-          duration: 0.3,
+          duration: 0.6,
           ease: "power2.out",
           stagger: 0.1,
         }
@@ -52,7 +52,7 @@ export default function WhyEducationSection({ data, className }) {
         {
           x: 0,
           opacity: 1,
-          duration: 0.3,
+          duration: 0.6,
           ease: "power2.out",
           stagger: 0.1,
         }
@@ -79,8 +79,8 @@ export default function WhyEducationSection({ data, className }) {
       className={`containerBody text-text-dark top ${className}`}
     >
       <div className="grid grid-cols-1 md:grid-cols-2 md:my-12 gap-4">
-        <div className="w-full space-y-6 flex flex-col justify-center">
-          <SectionTitle title={data.title} className="text-start left" />
+        <div className="w-full space-y-6 flex flex-col justify-center left">
+          <SectionTitle title={data.title} className="text-start " />
           <p>{data.description}</p>
           <StatSection data={data.statistics} />
         </div>

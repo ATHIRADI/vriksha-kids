@@ -25,7 +25,7 @@ export default function MapSection({ location }) {
         {
           y: 0,
           opacity: 1,
-          duration: 0.3,
+          duration: 0.6,
           ease: "power2.out",
           stagger: 0.1,
         }
@@ -37,7 +37,7 @@ export default function MapSection({ location }) {
         {
           x: 0,
           opacity: 1,
-          duration: 0.3,
+          duration: 0.6,
           ease: "power2.out",
           stagger: 0.1,
         }
@@ -49,7 +49,7 @@ export default function MapSection({ location }) {
         {
           x: 0,
           opacity: 1,
-          duration: 0.3,
+          duration: 0.6,
           ease: "power2.out",
           stagger: 0.1,
         }
@@ -83,7 +83,7 @@ export default function MapSection({ location }) {
       </div>
       <div
         ref={sectionRef}
-        className="w-full relative pb-16 xl:pb-32 containerBody z-51 h-[300px] md:h-[60vh] overflow-hidden below"
+        className="w-full relative pb-16 xl:pb-32 containerBody z-50 h-[300px] md:h-[60vh] overflow-hidden below"
       >
         <iframe
           src={location}

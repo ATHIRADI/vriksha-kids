@@ -28,7 +28,7 @@ export default function PhilosophySection({ data, className }) {
         {
           y: 0,
           opacity: 1,
-          duration: 0.3,
+          duration: 0.6,
           ease: "power2.out",
           stagger: 0.1,
         }
@@ -40,7 +40,7 @@ export default function PhilosophySection({ data, className }) {
         {
           x: 0,
           opacity: 1,
-          duration: 0.3,
+          duration: 0.6,
           ease: "power2.out",
           stagger: 0.1,
         }
@@ -52,7 +52,7 @@ export default function PhilosophySection({ data, className }) {
         {
           x: 0,
           opacity: 1,
-          duration: 0.3,
+          duration: 0.6,
           ease: "power2.out",
           stagger: 0.1,
         }
@@ -88,7 +88,7 @@ export default function PhilosophySection({ data, className }) {
                 <InfoCard
                   key={index}
                   {...item}
-                  className="bg-tertiary  hover:bg-dark hover:text-tertiary"
+                  className="bg-tertiary  hover:bg-dark hover:text-tertiary left"
                   textColor="hover:text-tertiary"
                 />
               ))}
