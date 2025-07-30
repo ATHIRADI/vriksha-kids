@@ -79,13 +79,13 @@ export default function WhyEducationSection({ data, className }) {
       className={`containerBody text-text-dark top ${className}`}
     >
       <div className="grid grid-cols-1 md:grid-cols-2 md:my-12 gap-4">
-        <div className="right w-full space-y-6 flex flex-col justify-center left">
-          <SectionTitle title={data.title} className="text-start top" />
+        <div className="w-full space-y-6 flex flex-col justify-center">
+          <SectionTitle title={data.title} className="text-start left" />
           <p>{data.description}</p>
           <StatSection data={data.statistics} />
         </div>
 
-        <div className="left mb-4 md:mb-0 flex flex-col justify-center items-center right">
+        <div className="mb-4 md:mb-0 flex flex-col justify-center items-center right">
           <div className="w-full h-full left mb-4 md:mb-0 ">
             <Image
               src={data.image}

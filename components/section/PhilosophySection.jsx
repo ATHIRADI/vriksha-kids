@@ -76,14 +76,14 @@ export default function PhilosophySection({ data, className }) {
   return (
     <section
       ref={sectionRef}
-      className="py-16 xl:py-32 containerBody top text-text-dark"
+      className="py-16 xl:py-32 containerBody text-text-dark"
     >
-      <div className="my-12 ">
-        <div className="right w-full space-y-6 flex flex-col justify-center left">
-          <SectionTitle title={data.title} className="text-start top" />
+      <div className="my-12 top">
+        <div className="w-full space-y-6 flex flex-col justify-center">
+          <SectionTitle title={data.title} className="text-start right" />
           <p>{data.description}</p>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-5 right">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
               {data.cards.map((item, index) => (
                 <InfoCard
                   key={index}
@@ -94,7 +94,7 @@ export default function PhilosophySection({ data, className }) {
               ))}
             </div>
 
-            <div className="left mb-4 md:mb-0 flex flex-col justify-center items-center below">
+            <div className="top mb-4 md:mb-0 flex flex-col justify-center items-center">
               <div className="w-full h-full">
                 <Image
                   src={data.image}

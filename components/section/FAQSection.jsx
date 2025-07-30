@@ -82,7 +82,7 @@ export default function FAQSection({ faqs }) {
         Frequently Asked Questions
       </h2>
 
-      <Accordion type="single" collapsible className="space-y-4 below">
+      <Accordion type="single" collapsible className="space-y-4">
         {faqs.map((faq, index) => {
           const itemValue = `item-${index}`;
 

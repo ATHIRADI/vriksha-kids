@@ -84,12 +84,12 @@ export default function VisionSection({ data }) {
           <SectionTitle
             title={data.title}
             subtitle={data.subtitle}
-            className="text-center top mb-6 top"
+            className="text-center mb-6"
           />
-          <p className="top">{data.text}</p>
+          <p className="">{data.text}</p>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-2 right">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-2 ">
           {data.cards.map((service, index) => (
             <InfoCard
               key={index}
