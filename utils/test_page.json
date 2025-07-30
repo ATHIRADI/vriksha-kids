@@ -1,7 +1,7 @@
 {
   "hero_section": {
     "headline": "Where Little Minds Bloom with Big Dreams!",
-    "image": "/40.jpeg",
+    "image": "/images/40.jpeg",
     "cta_text": "Enquire Now",
     "href": "/contact"
   },
@@ -122,19 +122,19 @@
   ],
   "program_cards": [
     {
-      "image": "/35.jpeg",
+      "image": "/images/35.jpeg",
       "title": "SUMMER CLASS",
       "sub_title": "Ages 3–5 years",
       "description": "Fun, engaging, and skill-building summer programs to keep your child active and happy."
     },
     {
-      "image": "/38.jpeg",
+      "image": "/images/38.jpeg",
       "title": "KG / LKG",
       "sub_title": "Ages 3.5–5 years",
       "description": "A playful introduction to structured learning — preparing children for a smooth school transition."
     },
     {
-      "image": "/18.jpeg",
+      "image": "/images/18.jpeg",
       "title": "DAYCARE",
       "sub_title": "Ages 1.5–5.5 years",
       "description": "A safe, loving environment with learning-based care for working parents and active toddlers."
@@ -211,19 +211,19 @@
     "href": "/programs",
     "programs": [
       {
-        "image": "/35.jpeg",
+        "image": "/images/35.jpeg",
         "title": "SUMMER CLASS",
         "sub_title": "Ages 3–5 years",
         "description": "Fun, engaging, and skill-building summer programs to keep your child active and happy."
       },
       {
-        "image": "/38.jpeg",
+        "image": "/images/38.jpeg",
         "title": "KG / LKG",
         "sub_title": "Ages 3.5–5 years",
         "description": "A playful introduction to structured learning — preparing children for a smooth school transition."
       },
       {
-        "image": "/18.jpeg",
+        "image": "/images/18.jpeg",
         "title": "DAYCARE",
         "sub_title": "Ages 1.5–5.5 years",
         "description": "A safe, loving environment with learning-based care for working parents and active toddlers."
@@ -290,7 +290,7 @@
   },
   "philosophy_section": {
     "title": "Our Philosophy",
-    "image": "/38.jpeg",
+    "image": "/images/38.jpeg",
     "description": "At Vriksha Kids Pre-School, we focus on nurturing each child’s unique potential through structured activities, guided play, and personalized care. Our philosophy is rooted in providing a holistic learning environment that prepares children not just academically, but also socially and emotionally.",
     "cards": [
       {
@@ -597,7 +597,7 @@
     "title": "Follow Our Instagram",
     "instagram": "https://www.instagram.com/vriksha_kids/",
     "images": [
-      "/images/1./images",
+      "/images/1.jpeg",
       "/images/2.jpeg",
       "/images/3.jpeg",
       "/images/4.jpeg"
