@@ -9,7 +9,7 @@ export default function Footer() {
   return (
     <footer className="bg-accent relative pt-0 ">
       <section className="containerBody relative z-10 space-y-6 text-text-dark pt-0">
-        <div className="flex flex-row justify-between items-center">
+        <div className="flex flex-col justify-center md:flex-row  md:justify-between items-center">
           <h2 className="h3 text-center">
             <StyledTitle alterColor="text-text-dark " mainTitle={logo} />
           </h2>

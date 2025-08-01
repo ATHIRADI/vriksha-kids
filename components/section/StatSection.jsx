@@ -51,7 +51,7 @@ const StatSection = ({ data }) => {
   return (
     <div
       ref={sectionRef}
-      className="grid grid-cols-2 text-center gap-4 py-4 top"
+      className="grid grid-cols-1 md:grid-cols-2 text-start gap-4 py-4 top"
     >
       {data.map((item, i) => (
         <StatCard

@@ -92,7 +92,7 @@ export default function ProgramSection({ programsList, programsDetails }) {
         defaultValue="toddlers"
         className="grid grid-cols-1 md:grid-cols-1 gap-10 containerBody mx-auto py-12 left"
       >
-        <TabsList className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mb-12 w-full md:w-auto ">
+        <TabsList className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mb-64 md:mb-12 w-full md:w-auto ">
           {programsList.map((program, index) => (
             <TabsTrigger
               key={index}
@@ -130,11 +130,11 @@ function TabContent({ image, title, description, features }) {
       <h2 className="text-3xl font-bold">{title}</h2>
       <p className="text-muted-foreground">{description}</p>
 
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+      <div className="grid grid-cols-1  md:grid-cols-4 gap-4">
         {features.map((feature, index) => (
           <div
             key={index}
-            className="border body-small uppercase border-accent rounded-md px-6 py-3 flex flex-row justify-center gap-4 items-center text-center"
+            className="border body-small uppercase border-accent rounded-md px-6 py-3 flex flex-row justify-start gap-4 items-center text-start"
           >
             <span className="border rounded-full text-tertiary bg-accent p-1">
               <Check size={18} />

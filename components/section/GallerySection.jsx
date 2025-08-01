@@ -90,7 +90,7 @@ export default function GallerySection({ category: categories, images }) {
 
   return (
     <section ref={sectionRef} className="py-16 xl:py-32 containerBody top">
-      <div className="flex justify-center gap-4 mb-8 left">
+      <div className="flex flex-col md:flex-row items-center justify-center gap-4 mb-8 left">
         {categories.map((category) => (
           <Button
             key={category}

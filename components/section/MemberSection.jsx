@@ -83,7 +83,7 @@ export default function MemberSection({ data }) {
       />
       <p className="below">{data.description}</p>
 
-      <div className="grid grid-cols-2 md:grid-cols-3 gap-5 below mt-12 z-50 relative">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-5 below mt-12 z-50 relative">
         {data.instructor.map((item, index) => (
           <MemberCard key={index} {...item} />
         ))}
