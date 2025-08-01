@@ -39,7 +39,7 @@ const Navbar = () => {
       <nav className="containerBody flex justify-between items-center py-5">
         <Link
           className=" border-accent  border-2 bg-dark h5 px-5 py-2"
-          href="/home"
+          href="/"
         >
           <StyledTitle mainTitle={logo} />
         </Link>
